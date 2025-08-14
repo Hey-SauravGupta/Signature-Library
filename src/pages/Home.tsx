@@ -170,7 +170,7 @@ const Home = () => {
                 <p>110084</p>
               </div>
               <a
-                href="tel:09926216052"
+                href="tel:9990991630"
                 className="inline-flex items-center space-x-3 bg-gradient-to-r from-primary-500 to-secondary-500 text-white px-8 py-4 rounded-full font-semibold hover:from-primary-600 hover:to-secondary-600 transition-all duration-300 shadow-lg transform hover:scale-105"
               >
                 <Phone className="h-6 w-6" />
