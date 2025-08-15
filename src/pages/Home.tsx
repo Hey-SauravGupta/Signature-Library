@@ -148,7 +148,7 @@ const Home = () => {
                 Stay updated with our latest photos, student success stories, and library updates
               </p>
               <a 
-                href="https://www.instagram.com/rv_swadhyay_library__dhar/" 
+                href="https://www.instagram.com/rajesh13me31/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-3 bg-gradient-to-r from-primary-500 to-secondary-500 text-white px-8 py-4 rounded-full font-semibold hover:from-primary-600 hover:to-secondary-600 transition-all duration-300 shadow-lg transform hover:scale-105"
