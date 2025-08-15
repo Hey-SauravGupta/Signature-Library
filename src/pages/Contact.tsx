@@ -240,7 +240,7 @@ const Contact = () => {
               {/* Google Maps Embed */}
               <div className="bg-white/80 backdrop-blur-sm rounded-2xl overflow-hidden shadow-lg mb-6 border border-primary-100">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8232.809472155921!2d75.31154203194149!3d22.598890704028747!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962370076f3f799%3A0xc11bb05762229941!2sRV%20swadhyay%20library!5e1!3m2!1sen!2sus!4v1753953000010!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3498.2733258393064!2d77.1953858752932!3d28.74125527560549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cff1b751eaeef%3A0x3454e90ff1702cc3!2sSIGNATURE%20LIBRARY!5e0!3m2!1sen!2sin!4v1755256102822!5m2!1sen!2sin"
                   width="100%"
                   height="300"
                   style={{ border: 0 }}
