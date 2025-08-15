@@ -254,7 +254,7 @@ const Contact = () => {
               {/* Quick Contact Actions */}
               <div className="space-y-4">
                 <a
-                  href="tel:09926216052"
+                  href="tel:09990991630"
                   className="flex items-center space-x-3 bg-gradient-to-r from-success-50 to-success-100 hover:from-success-100 hover:to-success-200 p-4 rounded-xl transition-all duration-300 border border-success-200 shadow-md"
                 >
                   <Phone className="h-6 w-6 text-success-600" />
